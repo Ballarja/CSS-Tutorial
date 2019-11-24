@@ -1,0 +1,36 @@
+body {
+    background-image: url('forest.jpg');
+}
+
+nav {  
+    color: #ffffff;
+    text-shadow: 2px 2px #737373;
+    font-size: 25px;
+}
+
+
+label {
+    display: inline-block;
+    grid-template-rows: auto;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.5;
+    filter: alpha(opacity=60);
+    
+}
+
+p {
+    margin: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.5;
+    filter: alpha(opacity=50);  
+    color: #000000;
+  
+}
+
+form  {
+    margin:0 auto;
+    width: 50px;
+    padding: 30px;
+}

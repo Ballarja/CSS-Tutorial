@@ -1,0 +1,70 @@
+body {
+  background-color: gainsboro;
+  overflow: hidden;
+
+
+}
+
+.row {
+  border-top: 1px solid black;
+  display: inline-block;
+  position: relative;
+  left: 500px;
+  top: 90px;
+  
+}
+.col1 {
+  display: inline-block;
+  text-align: left;
+  padding: 0px 10px 0px 10px;
+
+}
+
+.col2 {
+  display: inline-block;
+  text-align: center;
+  padding: 0px 10px 0px 10px;
+
+}
+
+.col3 {
+  display: inline-block;
+  text-align: right;
+  padding: 0px 10px 0px 10px;
+
+}
+
+.full-col {
+  padding: 0px 10px 0px 30px;
+
+}
+
+ul {
+  position: relative;
+  right: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  display: inline-block;
+  background-color: #777;
+  
+}
+
+#nav-title {
+  border-bottom: 2px solid #000;
+  font-size: 35px;
+  
+  
+}
+
+#brand {
+  position: relative;
+  left: 170px;
+  top: 36px;
+}
+
